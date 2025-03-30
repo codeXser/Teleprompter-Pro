@@ -1,12 +1,11 @@
-# Teleprompter Pro
+Teleprompter Pro
 
-A simple and stylish teleprompter for video recording.
-
+Teleprompter Pro is a simple and stylish teleprompter web app designed for video creators. It allows users to paste a script, control scrolling speed dynamically, and read smoothly while recording. 🚀🎤
 ## Features:
-- Paste and display your script in a scrolling window.
-- Control scrolling speed dynamically.
-- User-friendly and responsive design.
-
+✅ Paste and display scripts easily
+✅ Adjustable scrolling speed (10x - 100x)
+✅ Clean and modern UI
+✅ Perfect for presentations, speeches, and content creation
 ## Usage:
 1. Open `index.html` in a browser.
 2. Paste your script when prompted.
